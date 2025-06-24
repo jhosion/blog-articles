@@ -35,30 +35,6 @@
     "category": "技术分享",
     "tags": ["JavaScript", "异步编程", "Promise", "async/await"],
     "fileName": "javascript-async-programming.md"
-  },
-  {
-    "id": 4,
-    "title": "CSS现代布局技术指南",
-    "summary": "系统介绍现代CSS布局技术，从Flexbox到Grid，从容器查询到逻辑属性，帮助你掌握最新的CSS布局方法。",
-    "publishTime": "2024-06-21",
-    "readCount": 195,
-    "commentCount": 9,
-    "likeCount": 32,
-    "category": "技术分享",
-    "tags": ["CSS", "布局", "Flexbox", "Grid", "响应式"],
-    "fileName": "css-modern-layout.md"
-  },
-  {
-    "id": 5,
-    "title": "开发者效率提升指南",
-    "summary": "分享提高开发效率的实用技巧和工具，包括编辑器配置、快捷键、自动化工具、项目管理等方面的经验。",
-    "publishTime": "2024-06-20",
-    "readCount": 240,
-    "commentCount": 18,
-    "likeCount": 42,
-    "category": "开发技巧",
-    "tags": ["效率提升", "开发工具", "VS Code", "自动化", "项目管理"],
-    "fileName": "dev-productivity-tips.md"
   }
 ]
 ```
