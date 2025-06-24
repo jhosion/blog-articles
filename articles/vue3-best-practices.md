@@ -1,23 +1,3 @@
-```markdown
-
-title: "Vue 3 最佳实践指南"
-categories: 
-  - "前端开发"
-  - "Vue.js"
-tags:
-  - "Vue3"
-  - "Composition API"
-  - "JavaScript"
-  - "TypeScript"
-  - "响应式编程"
-  - "性能优化"
-  - "最佳实践"
-  - "代码规范"
-  - "组件化"
-  - "Hooks"
-difficulty: "中级"
-author: "你的名字"
-date: "2025-06-24"
 
 ## 🚀 前言
 
